@@ -1,0 +1,20 @@
+.text{
+	padding: 10px;
+	max-width: 100%;
+	min-height: 100vh;
+	border:1px solid gray;
+	margin-top: 20px;
+	font-size: 30px;
+	font-weight: 700;
+	position: relative;
+
+}
+
+.positionAbs {
+	position: absolute;
+	z-index: 3;
+}
+
+span{
+	cursor: pointer;
+}
